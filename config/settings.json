@@ -1,0 +1,16 @@
+{
+    "graph": true,
+    "graph_visualization": "matplotlib.pyplot",
+    "trimmed_mean_percentage": 1,
+    "matplotlib_pyplot_asynchronous": false,
+    "br": "br",
+    "kor_comment_graph": "예상 그래프를 보여줄지",
+    "kor_comment_graph_visualization": "plotext: cmd 안에서 점이나 선으로, matplotlib.pyplot: 외부 창에서",
+    "kor_comment_trimmed_mean_percentage": "절사평균값 (10이면 상위/하위 10% 제거)",
+    "kor_comment_matplotlib.pyplot_asynchronous": "비동기 사용여부(사용안함: False/ 사용함: (몇 분 후에 창이 꺼질지))",
+    "bl": "bl",
+    "eng_comment_graph": "Whether to show the predicted graph",
+    "eng_comment_graph_visualization": "plotext: dots and lines in the CMD, matplotlib.pyplot: in an anoter external window",
+    "eng_comment_trimmed_mean_percentage": "Trimmed mean value (10 means removing the top and bottom 10%)",
+    "eng_comment_matplotlib.pyplot_asynchronous": "Use asynchronous mode (False: disabled / [minutes]: enabled, window will close after this time)"
+}

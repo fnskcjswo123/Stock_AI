@@ -1,0 +1,1 @@
+pip install numpy pandas matplotlib plotext torch scikit-learn onnxruntime Pillow opencv-python
