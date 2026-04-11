@@ -1,4 +1,4 @@
-### Stock_AI
+## Stock_AI
 Stock prediction AI using a GRU implemented in Python!
 <br></br>
 (It's just a college project for my own, so do not use it seriously!)
@@ -42,4 +42,10 @@ gru를 이용한 주식 예측 프로그램이지만 코딩된걸 보면 알 수
 ![주식 예측 프로그램 파이썬으로 만들기_page-0022](https://github.com/user-attachments/assets/22e9d278-d58e-473c-8956-641aa20be8f8)
 <br></br>
 ![주식 예측 프로그램 파이썬으로 만들기_page-0023](https://github.com/user-attachments/assets/77b022d3-4006-41ff-adbd-f5ada209d5e4)
+<br></br>
+
+## Information
+Example excel files were downloaded from the [Investing](https://www.investing.com), pdf(ppt) was made into [Canva](https://www.canva.com), and onnx files were made from [Make Sense AI](https://www.makesense.ai).
+<br></br>
+엑셀 예시자료는 [Investing](https://www.investing.com)에서 다운받았으며, pdf(ppt)는 [Canva](https://www.canva.com), onnx파일들은 [Make Sense AI](https://www.makesense.ai)에서 만들어졌으니 참고해주세요.
 <br></br>
